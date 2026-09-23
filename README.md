@@ -8,5 +8,6 @@ Here are examples of some commands that I would prefer to just use CLI for:
 - git commit
 - git push
 - git add
+
 Another benefit of CLI is that I can use it directly inside my IDE, I don't need to open or even have another application (Github Desktop). 
 Therefore, I would generally prefer using CLI unless I am trying to perform a git operation for which I don't know the command or I am simply just confused so I want a better visual explaination of what happened.
